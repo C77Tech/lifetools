@@ -2,7 +2,7 @@
 
 一个囊括生活中基本需求的工具箱
 
-![](https://github.com/C77Tech/lifetools/blob/master/bg.png)
+![](https://github.com/C77Tech/lifetools/blob/master/preview.png)
 
 ----------
 ####开源组件：
